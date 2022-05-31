@@ -8,22 +8,23 @@ My name is Austin Evans and I'm a 20 year old software developer from the United
 - 🌌 Astrophysics
 - 🌪️ Meteorology
 
-## 🔧 | Technologies & Tools
+## ⚙️ | Tech Stack
+#### Environment
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Display_Mngr-GNOME-informational?style=for-the-badge&logo=gnome&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Terminal-GNOME-informational?style=for-the-badge&logo=gnome-terminal&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Tool-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=81a1c1)
-
+#### Languages
 ![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=81a1c1)
-
+#### Services
 ![](https://img.shields.io/badge/Service-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Service-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=81a1c1)
-
+#### Frameworks
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Framework-Tauri-informational?style=for-the-badge&logo=tauri&logoColor=white&color=81a1c1)
 
