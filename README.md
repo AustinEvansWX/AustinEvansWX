@@ -23,6 +23,7 @@ My name is Austin Evans and I'm a 20 year old software developer from the United
 #### Languages
 ![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=81a1c1)
+![](https://img.shields.io/badge/Lang-C++-informational?style=for-the-badge&logo=c%2b%2b&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=81a1c1)
 
