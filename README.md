@@ -1,13 +1,12 @@
 # 👋 | Welcome to my page!
 
-My name is Austin Evans and I'm a 20 year old software developer from the United States. I am currently working on a NFT analyitcs platform.
+My name is Austin Evans and I'm a 20 year old software developer from the United States. I'm currently working on an atmospheric analysis tool suite.
 
 
 ## 📄 | Interests 
-- ⛓️ Web3 / Crypto
-- 🧠 Machine Learning
-- 🌌 Astrophysics
 - 🌪️ Meteorology
+- 🌌 Astrophysics
+- 🧠 Machine Learning
 
 
 ## ⚙️ | Tech Stack
@@ -22,18 +21,8 @@ My name is Austin Evans and I'm a 20 year old software developer from the United
 
 #### Languages
 ![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=for-the-badge&logo=c%2b%2b&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Lang-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=81a1c1)
-
-#### Services
-![](https://img.shields.io/badge/Service-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Service-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=81a1c1)
-
-#### Frameworks
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Framework-Tauri-informational?style=for-the-badge&logo=tauri&logoColor=white&color=81a1c1)
+![](https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=81a1c1)
 
 
 ## 🟢 | Status
