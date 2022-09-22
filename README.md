@@ -14,7 +14,7 @@ My name is Austin Evans and I'm a 20 year old software developer from the United
 #### Environment
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Display_Mngr-GNOME-informational?style=for-the-badge&logo=gnome&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Terminal-GNOME-informational?style=for-the-badge&logo=gnome-terminal&logoColor=white&color=81a1c1)
+![](https://img.shields.io/badge/Terminal-Tilix-informational?style=for-the-badge&logo=gnome-terminal&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Tool-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=81a1c1)
