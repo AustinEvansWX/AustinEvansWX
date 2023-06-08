@@ -29,5 +29,5 @@ My name is Austin Evans and I'm a 20 year old software developer from the United
 
 
 ## 📈 | Stats
-<img src="http://github-readme-streak-stats.herokuapp.com?user=roguetechh&theme=nord&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=roguetechh&show_icons=true&theme=nord&count_private=true&hide_border=true&include_all_commits=true">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AustinEvansWX&theme=nord&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=AustinEvansWX&show_icons=true&theme=nord&count_private=true&hide_border=true&include_all_commits=true">
