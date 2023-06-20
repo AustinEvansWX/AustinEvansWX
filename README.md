@@ -1,6 +1,6 @@
 # 👋 | Welcome to my page!
 
-My name is Austin Evans and I'm a 20 year old software developer from the United States. I'm currently working on an atmospheric analysis tool suite.
+My name is Austin Evans and I'm a 21 year old software developer from the United States. I'm currently working on an atmospheric analysis tool suite.
 
 
 ## 📄 | Interests 
