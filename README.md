@@ -26,9 +26,5 @@ My name is Austin Evans and I'm a 21 year old software developer from the United
 ![](https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=81a1c1)
 
 
-## 🟢 | Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/397536301726826498?theme=dark&animated=true&bg=2e3440&borderRadius=5px&idleMessage=Not%20coding%20atm...)](https://discord.com/users/397536301726826498)
-
-
 ## 📈 | Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=AustinEvansWX&theme=nord&hide_border=true">
