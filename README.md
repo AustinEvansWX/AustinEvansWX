@@ -1,11 +1,11 @@
 # 👋 | Welcome to my page!
 
-My name is Austin Evans and I'm a 22 year old software developer from the United States. I'm currently working on an atmospheric analysis tool suite.
+My name is Austin Evans and I'm a 23 year old software developer from the United States. I'm currently working on an atmospheric analysis tool suite.
 
 
 ## 📄 | Interests 
 - 🌪️ Meteorology
-- 🌌 Astrophysics
+- 🎮 Graphics Programming
 - 🧠 Machine Learning
 
 
@@ -13,11 +13,10 @@ My name is Austin Evans and I'm a 22 year old software developer from the United
 
 #### Environment
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=for-the-badge&logo=apple&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Terminal-WezTerm-informational?style=for-the-badge&logo=gnome-terminal&logoColor=white&color=81a1c1)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=81a1c1)
 ![](https://img.shields.io/badge/Tool-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=81a1c1)
+![](https://img.shields.io/badge/Editor-Zed-informational?style=for-the-badge&logo=zed-industries&logoColor=white&color=81a1c1)
 
 #### Languages
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=81a1c1)
